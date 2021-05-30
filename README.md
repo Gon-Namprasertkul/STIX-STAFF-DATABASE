@@ -6,12 +6,10 @@ ONLY STAFF AND OWNERS KNOW WHAT IS THE PASSCODE
 
 YOU NEED TO LOGIN TO YOUR ACCOUNT
 
-# WARNING FOR WINDOWS:YOU NEED TO EXTRACT THE ZIP FILE TO DOWNLOADS FOLDER IF YOUEXTRACT THE ZIP TO ANOTHER LOCATION IT WILL NOT WORK
 
+# HOW TO USE(MAC)
 
-# HOW TO USE
-
-1.Open the file for your OS
+1.Open the executable file
 
 2.Enter staff passcode
 
@@ -19,7 +17,15 @@ YOU NEED TO LOGIN TO YOUR ACCOUNT
 
 4.Select menu
 
-# Requirement
+# HOW TO USE(Windows)
+
+1.Open command prompt
+
+2.type `cd [the location of Contents folder]` and press enter
+
+3.type `python3 DATABASE.py` and press enter
+
+# Requirements
 
 For macOS:
 
