@@ -19,12 +19,13 @@ YOU NEED TO LOGIN TO YOUR ACCOUNT
 
 # HOW TO USE(Windows)
 
-1.Open command prompt
+1.Open .exe file
 
-2.type `cd [the location of Contents folder]` and press enter
+2.Enter staff passcode
 
-3.type `python3 DATABASE.py` and press enter
+3.Log into your account
 
+4.Select menu
 # Requirements
 
 For macOS:
@@ -35,9 +36,7 @@ For macOS:
 
 For windows:
 
-1.Python3
-
-2.command line
+1.Command line
 
 
 
